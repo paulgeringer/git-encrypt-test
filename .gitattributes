@@ -1,2 +1,3 @@
-U2FsdGVkX1/zr+fJrcIAAI+CECfrVLoDzcCsfTwprhciyPzC94iKwEZJUGsD3vbk
-xKKQ4JD4vyPzXkxMT89BIMzyWlYNklbgslexJZaK69A=
+testdir/* filter=openssl diff=openssl
+[merge]
+    renormalize=true
